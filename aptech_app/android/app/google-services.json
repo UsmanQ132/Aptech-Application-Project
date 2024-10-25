@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420151149634",
+    "project_id": "aptech-auth",
+    "storage_bucket": "aptech-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420151149634:android:5a8de7756753ecfcce19db",
+        "android_client_info": {
+          "package_name": "com.example.aptech_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJj-JUEBmoiaAVBhzHG2_ZMKL118yZ-ag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
